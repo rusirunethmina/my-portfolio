@@ -15,7 +15,7 @@
     "main.ed78d9de.js.map": "/static/js/main.ed78d9de.js.map"
   },
   "entrypoints": [
-    "static/css/main.b45ad744.css",
-    "static/js/main.ed78d9de.js"
+    "/static/css/main.b45ad744.css",
+    "/static/js/main.ed78d9de.js"
   ]
 }
